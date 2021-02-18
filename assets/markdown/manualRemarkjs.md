@@ -139,6 +139,8 @@ class: center middle black
 
 .enlace[.center[[\[Guia Markdown\]](https://www.markdownguide.org/basic-syntax/)]]
 
+.enlace[.center[[\[remark\]](https://www.markdownguide.org/basic-syntax/)]]
+
 ---
 name: indice
 class: black
@@ -158,4 +160,3 @@ class: black
 .enlace[[\[Los estilos\]](#estilos)]
 
 .enlace[[\[Bibliografía\]](#biblio)]
-
