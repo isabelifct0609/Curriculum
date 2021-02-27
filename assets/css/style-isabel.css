@@ -1,0 +1,162 @@
+@font-face {
+    font-family: Champagne;
+    src: url('../fonts/Champagne_&_Limousines.ttf'), url('../fonts/Champagne_&_Limousines_Bold.ttf');
+
+}
+
+body {
+    font-family: "Champagne";
+    text-align: justify;
+    color: white;
+    letter-spacing: 2px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Champagne";
+    font-weight: bold;
+    letter-spacing: 5px;
+    width: 100%;
+    color: white;
+}
+
+.left{
+    text-align: left;
+}
+.a {
+    text-decoration-line: none;
+}
+
+.h1 {
+    font-size: 6rem;
+}
+
+
+/*clases personalizadas*/
+.bold{
+    font-weight: bold;
+}
+
+.blanco {
+    color: white;
+}
+
+.black {
+    background-color: #3e3d3d;
+}
+
+.enlace {
+    font-family: 'Champagne';
+    font-size: smaller;
+}
+
+.c1 {
+    background-color: #5a9ab6;
+    padding: 1rem;
+    
+}
+
+.c2 {
+    padding: 1rem;
+    background-color: #8e9e37;
+}
+
+.c3 {
+    padding: 1rem;
+    background-color: #c23d59;
+}
+
+.c4 {
+    padding: 1rem;
+    background-color:#bf2e1b;
+}
+
+.c5 {
+    padding: 1rem;
+    background-color:#becc3f;
+}
+
+.c6 {
+    padding: 1rem;
+    background-color: #78b9b6;
+}
+
+.c7 {
+    padding: 1rem;
+    background-color: #5f9c98;
+}
+
+.c8 {
+    padding: 1rem;
+    background-color: #907852;
+}
+
+.c9 {
+    padding: 1rem;
+    background-color: #9b1e1d;
+}
+
+.c10 {
+    padding: 1rem;
+    background-color: #deba93;
+}
+
+.c11 {
+    padding: 1rem;
+    background-color: #a04721;
+}
+
+.n1 {
+    color: #5a9ab6;
+    
+
+}
+
+.n2 {
+   color: #8e9e37;
+
+}
+
+.n3 {
+    color: #c23d59;
+}
+
+.n4 {
+    color:#bf2e1b;
+}
+
+.n5 {
+    color:#becc3f;
+}
+
+.n6 {
+    color: #78b9b6;
+}
+
+.n7 {
+    color: #5f9c98;
+}
+
+.n8 {
+    color: #907852;
+}
+
+.n9 {
+    color: #9b1e1d;
+}
+
+.n10 {
+    color: #deba93;
+}
+
+.n11 {
+    color: #a04721;
+}
+.p{
+    color:#a04721;
+    font-weight: bold;
+}
