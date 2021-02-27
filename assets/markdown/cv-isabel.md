@@ -95,7 +95,7 @@ class: middle black
 
 ---
 
-class: middle
+class: middle center
 
 # .c8.center[Conocimientos]
 
