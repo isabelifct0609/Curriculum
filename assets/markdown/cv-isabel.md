@@ -97,7 +97,7 @@ class: middle black
 
 class: middle center
 
-# .c8.center[Conocimientos]
+# .mb.c8.center[Conocimientos]
 
 ![logos][logos]
 
